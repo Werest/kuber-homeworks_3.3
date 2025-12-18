@@ -33,6 +33,11 @@
 <img width="1215" height="540" alt="2" src="https://github.com/user-attachments/assets/bdb1193f-62ea-43c9-9e71-e7db9bd9d9ce" />
 
 **Применяем манифесты (приложены в репозиторий):**
+[namespace.yaml](https://github.com/Werest/kuber-homeworks_3.3/blob/633f773c044bd6c6958d2b815110be97406132fc/namespace.yaml)
+[deployments.yaml](https://github.com/Werest/kuber-homeworks_3.3/blob/633f773c044bd6c6958d2b815110be97406132fc/deployments.yaml)
+[services.yaml](https://github.com/Werest/kuber-homeworks_3.3/blob/633f773c044bd6c6958d2b815110be97406132fc/services.yaml)
+[network-policies.yaml](https://github.com/Werest/kuber-homeworks_3.3/blob/633f773c044bd6c6958d2b815110be97406132fc/network-policies.yaml)
+
 <img width="882" height="533" alt="3" src="https://github.com/user-attachments/assets/a390322f-72b0-47e0-929c-eb26101112a1" />
 
 **Проверяем разрешенные подключения:**
