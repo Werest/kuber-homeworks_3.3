@@ -29,6 +29,7 @@
 -----
 **Поднял кластер 1 мастер / 2 воркер ноды**
 <img width="769" height="380" alt="1" src="https://github.com/user-attachments/assets/89d284d0-ae2c-4286-a09e-1d9034d4c1b6" />
+
 Присоединяем воркеры к мастеру:
 <img width="1215" height="540" alt="2" src="https://github.com/user-attachments/assets/bdb1193f-62ea-43c9-9e71-e7db9bd9d9ce" />
 
